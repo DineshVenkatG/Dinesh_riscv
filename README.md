@@ -36,3 +36,4 @@ Sequential calculator :
 2 cycle Sequential calculator with validity and memory :
 ![image](https://github.com/DineshVenkatG/Dinesh_riscv/assets/99543009/ed5a1fc7-590e-4110-ba48-739937b54db3)
 
+</details>
